@@ -27,23 +27,19 @@ Go back to your nose sprite and copy the code ther onto your new sprite by dragg
 --- /task --
 
 --- task ---
-
 Go back to your eye sprite now and remove the `turn video on`{:class="blocks3extensions"} and `set transparency to 0`{:class="blocks3extensions"} blocks from the code. Make sure you also change the two `coord of nose`{:class="blocks3extensions"} blocks to say 'right eye' in the drop down.
-
 --- /task ---
+
 --- task ---
 Duplicate your new eye sprite by right-clicking on it below the stage and choosing **Duplicate**.
 --- /task ---
 
 --- task ---
-
 Go into your new eye sprite and change the two `coord of right eye`{:class="blocks3extensions"} blocks to say 'left eye' in the drop down.
-
 --- /task ---
+
 --- task ---
-
 Click the green flag to see your new face mask come to life and follow your around the screen!
-
 --- /task ---
 
 --- save ---
