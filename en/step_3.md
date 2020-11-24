@@ -27,9 +27,9 @@ When you are over the sprite, you should see it wiggle to notify you that you ca
 --- /task ---
 
 --- task ---
-Go back to your eye sprite now and remove the `turn video on`{:class="blocks3extensions"} and `set transparency to 0`{:class="blocks3extensions"} blocks from the code. 
+Go back to your eye sprite now and remove the `turn video on`{:class="blocks3extension"} and `set transparency to 0`{:class="blocks3extension"} blocks from the code. 
 
-Make sure you also change the two `coord of nose`{:class="blocks3extensions"} blocks to say `right eye`{:class="blocks3extensions"} in the drop down.
+Make sure you also change the two `coord of nose`{:class="blocks3extension"} blocks to say `right eye`{:class="blocks3extension"} in the drop down.
 --- /task ---
 
 --- task ---
@@ -37,7 +37,7 @@ Duplicate your new eye sprite by right-clicking on it below the stage and choosi
 --- /task ---
 
 --- task ---
-Go into your new eye sprite and change the two `coord of right eye`{:class="blocks3extensions"} blocks to say `left eye`{:class="blocks3extensions"} in the drop down.
+Go into your new eye sprite and change the two `coord of right eye`{:class="blocks3extension"} blocks to say `left eye`{:class="blocks3extension"} in the drop down.
 --- /task ---
 
 --- task ---
