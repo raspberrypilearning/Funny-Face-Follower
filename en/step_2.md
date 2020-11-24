@@ -22,6 +22,7 @@ You should see...
 Once you’ve followed the link above, you should be able to see a brand new, empty Scratch project, just like you're used to - the cool part comes when we add some new Extensions that are included in this fork of Scratch. The two extensions we want to enable are Video Sensing and Facial Recognition - add them both now.
 
 --- collapse ---
+
 --- 
 title: Adding extensions in Scratch
 ---
@@ -56,6 +57,7 @@ Now, we're going to change the costume of our cat sprite to something more like 
 Stop the project and click on the costumes tab for your cat sprite. Add a new costume that you want to use as your mask and delete the old ones of the cat. Here I've used the 'heart face' costume, but you can use anything you like.
 
 ---collapse ---
+
 ---
 title: Adding costumes in Scratch
 ---
