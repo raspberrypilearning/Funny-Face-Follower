@@ -39,7 +39,7 @@ Go into your new eye sprite and change the two `coord of right eye`{:class="bloc
 --- /task ---
 
 --- task ---
-Click the green flag to see your new face mask come to life and follow your around the screen!
+Click the green flag to see your new face mask come to life and follow you around the screen!
 --- /task ---
 
 --- save ---
