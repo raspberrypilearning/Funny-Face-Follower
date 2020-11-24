@@ -4,6 +4,7 @@
 For the next part, we're going to make individual sprites that will anchor to our eyes and nose to make a crazy cartoon face!
 
 --- task ---
+
 Go into the **Costumes** tab for your current sprite and click the little paintbrush to create a new costume in the **Paint editor**.
 Create a simple circle shape that will be the nose of your mask.
 
@@ -32,7 +33,7 @@ Go back to your nose sprite and copy the code ther onto your new sprite by dragg
 
 --- task ---
 
-Go back to your eye sprite now and remove the `turn video on`{:class="blocks3extensions"} and `set transparency to 0`{:class="blocks3extensions"} blocks from the code. Make sure you also change the two `coord of nose`{:class="blocks3extensions"} blocks to say 'right eye' in the drop down.
+Go back to your eye sprite now and remove the `turn video on`{:class="blocks3extensions"} and `set transparency to 0`{:class="blocks3extensions"} blocks from the code. Make sure you also change the two `coord of nose`{:class="blocks3extensions"} blocks to say `right eye`{:class="blocks3extensions"} in the drop down.
 
 --- /task ---
 
@@ -44,7 +45,7 @@ Duplicate your new eye sprite by right-clicking on it below the stage and choosi
 
 --- task ---
 
-Go into your new eye sprite and change the two `coord of right eye`{:class="blocks3extensions"} blocks to say 'left eye' in the drop down.
+Go into your new eye sprite and change the two `coord of right eye`{:class="blocks3extensions"} blocks to say `left eye`{:class="blocks3extensions"} in the drop down.
 
 --- /task ---
 
