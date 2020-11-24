@@ -1,4 +1,4 @@
-## Step title
+## Facial recognition with Scratch
 
 In this activity, you will use the amazing online machine learning engine based off of IBM’s artificial intelligence project (called Watson) and Scratch to create a project that will recognise your face in the webcam and place some funny sprites over it to make a mask that follows you!
 
