@@ -54,6 +54,7 @@ Now, we're going to change the costume of our cat sprite to something more like 
 
 --- task ---
 Stop the project and click on the costumes tab for your cat sprite. Add a new costume that you want to use as your mask and delete the old ones of the cat. Here I've used the 'heart face' costume, but you can use anything you like.
+
 ---collapse ---
 ---
 title: Adding costumes in Scratch
@@ -74,12 +75,8 @@ Next, add a `go to x and y`{:class="block3motion"} block inside your forever loo
 Open the `Facial Recognition`{:class="block3extensions"} menu on the left and drag across the small round `x coord of nose`{:class="block3extensions"} and `y coord of nose`{:class="block3extensions"} blocks and pop them into their corresponding spots (making sure you match x with x and y with y!) 
 --- /task ---
 
---- collapse ---
---- 
-title: Adding extensions in Scratch
----
---- /collapse ---
-
+--- task ---
+Click the green flag and see if your project works!
 --- /task ---
 
 
