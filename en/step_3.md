@@ -9,11 +9,9 @@ Go into the **Costumes** tab for your current sprite and click the little paintb
 Create a simple circle shape that will be the nose of your mask.
 
 --- collapse ---
-
 ---
 title: Drawing circles in the paint editor
 ---
-
 --- /collapse ---
 
 --- /task ---
