@@ -1,7 +1,6 @@
-
 ## Make a Mask
 
-For the next part, we're going to make individual sprites that will anchor to our eyes and nose to make a crazy cartoon face!
+For the next part, we're going to make individual sprites that will anchor to our eyes and nose to make a crazy cartoon face that follows yours around the screen!
 
 --- task ---
 Go into the **Costumes** tab for your current sprite and click the little paintbrush to create a new costume in the **Paint editor**.
@@ -22,7 +21,7 @@ Make this sprite look like an eye by drawing one circle inside another and makin
 
 --- task ---
 Go back to your nose sprite and copy the code ther onto your new sprite by dragging it across to where your sprite is shown underneath the Stage. When you are over the sprite, you should see it wiggle to show you it knows you want to copy the code there. Let go with your mouse and it will copy across.
---- /task --
+--- /task ---
 
 --- task ---
 Go back to your eye sprite now and remove the `turn video on`{:class="blocks3extensions"} and `set transparency to 0`{:class="blocks3extensions"} blocks from the code. Make sure you also change the two `coord of nose`{:class="blocks3extensions"} blocks to say `right eye`{:class="blocks3extensions"} in the drop down.
