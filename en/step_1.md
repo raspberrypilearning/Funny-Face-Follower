@@ -1,11 +1,11 @@
 ## Introduction
 
-Today, you’re going to be using a different version of Scratch (what programmers call a ‘fork’) that is pre-made to use special Extensions created by IBM that use machine learning to do facial recognition! 
+Today, you’re going to be using a different version of Scratch (what programmers call a ‘fork’) that is pre-made with special Extensions created by IBM. Today, you're going to use machine learning to do facial recognition! 
 
 ### What you will make
 
 --- no-print ---
-In this activity, you will use the amazing online machine learning engine based off of IBM’s artificial intelligence project (called Watson) and Scratch to create a project that will recognise your face in the webcam and place some funny sprites over it to make a mask that follows you!
+In this activity, you will use the amazing online machine learning engine called Watson (and Scratch!) to create a project that will recognise your face in the webcam and place some funny sprites over it to make a mask that follows you!
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
