@@ -1,7 +1,7 @@
 
-## Step title
+## Make a Mask
 
-Add an introductory sentence. What will learners achieve by the end of this step?
+For the next part, we're going to make individual sprites that will anchor to our eyes and nose to make a crazy cartoon face!
 
 --- task ---
 
