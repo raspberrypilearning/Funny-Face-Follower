@@ -18,7 +18,6 @@ You should see...
 --- /task ---
 
 --- task ---
-
 Once you’ve followed the link above, you should be able to see a brand new, empty Scratch project, just like you're used to - the cool part comes when we add some new Extensions that are included in this fork of Scratch. The two extensions we want to enable are Video Sensing and Facial Recognition - add them both now.
 
 --- collapse ---
@@ -34,10 +33,9 @@ Now that we have added the extensions we need to Scratch, you should see two new
 
 These new blocks have been created to access an already existing Machine Learning model that exists on the cloud and has been trained to recognise human faces. We’re simply using these blocks to tell Scratch to check with the online model to see where the face appears on your stage.
 
---- task ---
-
 Let’s see if they work!
 
+--- task ---
 Begin by adding a `When Green Flag Clicked`{:class="block3events"} to start our project.
 --- /task ---
 
@@ -57,14 +55,15 @@ Now, we're going to change the costume of our cat sprite to something more like 
 Stop the project and click on the costumes tab for your cat sprite. Add a new costume that you want to use as your mask and delete the old ones of the cat. Here I've used the 'heart face' costume, but you can use anything you like.
 
 ---collapse ---
-
 ---
 title: Adding costumes in Scratch
 ---
 --- /collapse ---
+
 --- /task ---
 
 Now, we're going to add the code that will make the mask detect and follow your face!
+
 --- task ---
 At the bottom of you script, add a `forever`{:class="block3control"} block from the control list. 
 --- /task ---
