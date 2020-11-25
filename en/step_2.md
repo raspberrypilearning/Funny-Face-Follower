@@ -42,7 +42,7 @@ Begin by adding a `When Green Flag Clicked`{:class="block3events"} to start our 
 --- /task ---
 
 --- task ---
-Next, we need to use our `video sensing`{:class="block3extensions"} blocks to make sure that the camera is on and totally opaque when the project starts. Add a `set transparency to 0`{:class="block3extensions"}.
+Next, we need to use our `video sensing`{:class="block3extensions"} blocks to make sure to `turn the camera on`{:class="block3extensions"} and totally opaque when the project starts. Add a `set transparency to 0`{:class="block3extensions"}.
 
 --- /task ---
 
