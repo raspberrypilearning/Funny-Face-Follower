@@ -30,7 +30,7 @@ title: What you will need
 title: What you will learn
 ---
 
-+ How to use the Scratch extensions `Video Sensing`{:class="block3extension"} and `Facial Recognition`{:class="block3extension"}
++ How to use the Scratch extensions `Video Sensing`{:class="block3extensions"} and `Facial Recognition`{:class="block3extensions"}
 + How to interact with a pre-trained machine learning model
 
 --- /collapse ---
