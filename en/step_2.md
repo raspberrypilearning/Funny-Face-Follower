@@ -109,7 +109,7 @@ when gf clicked
 turn video [on v]
 set video transparency to (0)
 forever
-    go to x:+(x coord of (nose v)::#0fbd8c)y:+(y coord of (nose v)::#0fbd8c)
+    go to x:(x coord of (nose v)::#0fbd8c)y:(y coord of (nose v)::#0fbd8c)
 ```
 --- /task ---
 
