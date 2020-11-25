@@ -10,10 +10,6 @@ In this activity, you will use the amazing online machine learning engine called
 ![image showing Scratch stage with funny mask overlay](images/ML-FR-Demo.JPG)
 --- /no-print ---
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
-
 --- collapse ---
 ---
 title: What you will need
