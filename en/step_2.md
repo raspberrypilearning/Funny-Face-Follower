@@ -5,6 +5,8 @@ For this activity, we’re going to use a special version of Scratch created for
 
 Unfortunately, because this version of Scratch is a bit different to the normal one - if you want to be able to save your work, you’ll need to download your project to your computer and re-open it in the special version of Scratch when you want to use it again.
 
+[[[saving-scratch]]]
+
 --- task ---
 
 If working **online**, open the [starter project](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"} in Scratch.
@@ -19,8 +21,6 @@ Once you’ve followed the link above, you should be able to see a brand new, em
 The two extensions we want to enable are **Video Sensing** and **Facial Recognition** - add them both now.
 
 ![image showing Video Sensing extension tile](images/videosensing.JPG) ![image showing face Detection extension tile](images/facedetect.JPG)
-
-[[[saving-scratch-projects]]]
 
 --- collapse ---
 
