@@ -98,7 +98,7 @@ when gf clicked
 turn video [on v]
 set video transparency to (0)
 forever
-    +go to x:()y:()
++    go to x:()y:()
 ```
 --- /task ---
 
