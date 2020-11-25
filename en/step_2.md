@@ -11,14 +11,14 @@ If working **online**, open the [starter project](https://machinelearningforkids
  
 As this project requires connection to the cloud based machine learning engine, offline work is not possible.
 
-You should see...
- 
-![starter project](images/starter_project.png)
+You should see the normal looking Scratch environment, with a couple of small differences. You'll notice there is no 'Remix' button and you cannot log in as usual. 
 
 --- /task ---
 
 --- task ---
-Once you’ve followed the link above, you should be able to see a brand new, empty Scratch project, just like you're used to - the cool part comes when we add some new Extensions that are included in this fork of Scratch. The two extensions we want to enable are Video Sensing and Facial Recognition - add them both now.
+Once you’ve followed the link above, you should be able to see a brand new, empty Scratch project, just like you're used to - the cool part comes when we add some Extensions that are only included in this special fork of Scratch. 
+
+The two extensions we want to enable are Video Sensing and Facial Recognition - add them both now.
 
 --- collapse ---
 
