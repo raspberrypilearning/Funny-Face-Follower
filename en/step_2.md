@@ -42,7 +42,6 @@ Begin by adding a `When Green Flag Clicked`{:class="block3events"} to start our 
 ```blocks3
 when green flag clicked
 ```
-
 --- /task ---
 
 --- task ---
@@ -53,7 +52,6 @@ when gf clicked
 +set video transparency to (0)
 
 ```
-
 --- /task ---
 
 --- task ---
