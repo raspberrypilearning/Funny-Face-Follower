@@ -64,7 +64,11 @@ Give your browser permission to use your camera if you are asked.
 Now, we're going to change the costume of our cat sprite to something more like a face.
 
 --- task ---
-Stop the project and click on the **Costumes tab** for your cat sprite. Add a new costume that you want to use as your mask and delete the old ones of the cat. Here I've used the 'heart face' costume, but you can use anything you like.
+Stop the project and click on the **Costumes tab** for your cat sprite. **Add a new costume** to use as your mask and delete the old ones of the cat by clicking the bin icon on the costume. 
+
+Here I've used the 'heart face' costume, but you can use anything you like.
+
+![Heart Face costume](images/Heart Face.svg)
 
 ---collapse ---
 ---
