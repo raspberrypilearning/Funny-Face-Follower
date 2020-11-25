@@ -23,13 +23,13 @@ Make this sprite look like an eye by drawing one circle inside another and makin
 --- task ---
 Go back to your nose sprite and copy the code there onto your new sprite by dragging it across to where your sprite is shown underneath the Stage. 
 
-When you are over the sprite, you should see it wiggle to notify you that you can let go. Let go with your mouse and it will copy across.
+When you are over the sprite, you should see it wiggle to notify you that you can let go. Let go with your mouse and it will copy across to the new sprite.
 ``` blocks3
 when gf clicked
 turn video [on v]
 set video transparency to (0)
 forever
-+    go to x:(x coord of (nose v)::#0fbd8c)y:(y coord of (nose v)::#0fbd8c)
+    go to x:(x coord of (nose v)::#0fbd8c)y:(y coord of (nose v)::#0fbd8c)
 ```
 --- /task ---
 
