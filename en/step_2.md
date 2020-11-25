@@ -39,22 +39,32 @@ Let’s see if they work!
 
 --- task ---
 Begin by adding a `When Green Flag Clicked`{:class="block3events"} to start our project.
+```blocks3
+when green flag clicked
+```
+
 --- /task ---
 
 --- task ---
 Next, we need to use our `video sensing`{:class="block3extensions"} blocks to make sure to `turn the camera on`{:class="block3extensions"} and totally opaque when the project starts. Add a `set transparency to 0`{:class="block3extensions"}.
+```blocks3
+when gf clicked
+turn video [on v]
+set video transparency to (0)
+
+```
 
 --- /task ---
 
 --- task ---
-Click the Green flag to test your work and see the camera come online.  
+Click the **Green flag** to test your work and see the camera come online.  
 Give your browser permission to use your camera if you are asked.
 --- /task ---
 
 Now, we're going to change the costume of our cat sprite to something more like a face.
 
 --- task ---
-Stop the project and click on the costumes tab for your cat sprite. Add a new costume that you want to use as your mask and delete the old ones of the cat. Here I've used the 'heart face' costume, but you can use anything you like.
+Stop the project and click on the **Costumes tab** for your cat sprite. Add a new costume that you want to use as your mask and delete the old ones of the cat. Here I've used the 'heart face' costume, but you can use anything you like.
 
 ---collapse ---
 ---
@@ -68,14 +78,35 @@ Now, we're going to add the code that will make the mask detect and follow your 
 
 --- task ---
 At the bottom of you script, add a `forever`{:class="block3control"} block from the control list. 
+```blocks3
+when gf clicked
+turn video [on v]
+set video transparency to (0)
+forever
+
+```
 --- /task ---
 
 --- task ---
 Next, add a `go to x and y`{:class="block3motion"} block inside your forever loop.
+```blocks3
+when gf clicked
+turn video [on v]
+set video transparency to (0)
+forever
+    go to x:()y:()
+```
 --- /task ---
 
 --- task ---
-Open the `Facial Recognition`{:class="block3extensions"} menu on the left and drag across the small round `x coord of nose`{:class="block3extensions"} and `y coord of nose`{:class="block3extensions"} blocks and pop them into their corresponding spots (making sure you match x with x and y with y!) 
+Open the `Facial Recognition`{:class="block3extensions"} menu on the left and drag across the small round `x coord of nose`{:class="block3extensions"} and `y coord of nose`{:class="block3extensions"} blocks and pop them into their corresponding spots (making sure you match x with x and y with y!)
+``` blocks3
+when gf clicked
+turn video [on v]
+set video transparency to (0)
+forever
+    go to x:(x coord of (nose v)::#0fbd8c)y:(y coord of (nose v)::#0fbd8c)
+```
 --- /task ---
 
 --- task ---
