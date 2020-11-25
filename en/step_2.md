@@ -119,5 +119,6 @@ Click the **Green flag** and see if your project works.
 Your mask should now follow your face wherever you go!
 --- /task ---
 
+In the next step, we'll create a silly mask made up of different sprites that will independently cover your nose and eyes!
 
 --- save ---
