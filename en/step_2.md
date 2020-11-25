@@ -36,13 +36,14 @@ title: Adding extensions in Scratch
 
 + Click on the **Video Sensing** extension to add it.
 
-![pen extension highlighted](images/vision-extensions.JPG)
+![Video Sensing tile](images/videosensing.JPG)
 
 + The Video Sensing section then appears at the bottom of the blocks menu.
 
 ![video and facial rec extension blocks](images/video-face-blocks.JPG)
 
 +Repeat these steps with the **Facial Recognition** extension.
+![Video Sensing tile](images/facedetect.JPG)
 
 --- /collapse ---
 
