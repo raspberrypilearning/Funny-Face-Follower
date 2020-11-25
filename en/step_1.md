@@ -8,7 +8,7 @@ Today, you’re going to be using a different version of Scratch (what programme
 In this activity, you will use the amazing online machine learning engine called Watson (and Scratch!) to create a project that will recognise your face in the webcam and place some funny sprites over it to make a mask that follows you!
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://drive.google.com/file/d/1rTaRBmpYlvAet14CRsr0z1exzI6G0Smj/view?usp=sharing" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://github.com/raspberrypilearning/ML-image-detection-starter/en/images/ML-FR-Demo.jpg" frameborder="0"></iframe>
 </div>
 --- /no-print ---
 
