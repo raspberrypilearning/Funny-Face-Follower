@@ -114,7 +114,9 @@ forever
 --- /task ---
 
 --- task ---
-Click the green flag and see if your project works!
+Click the **Green flag** and see if your project works.
+
+Your mask should now follow your face wherever you go!
 --- /task ---
 
 
