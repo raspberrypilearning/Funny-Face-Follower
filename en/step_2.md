@@ -20,7 +20,7 @@ Once you’ve followed the link above, you should be able to see a brand new, em
 
 The two extensions we want to enable are Video Sensing and Facial Recognition - add them both now.
 
-![image showing Video Sensing extension tile](images/videosensing.jpg) ![image showing face Detection extension tile](images/facedetect.jpg)
+![image showing Video Sensing extension tile](images/videosensing.JPG) ![image showing face Detection extension tile](images/facedetect.JPG)
 
 --- collapse ---
 
