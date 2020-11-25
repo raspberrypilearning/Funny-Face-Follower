@@ -49,8 +49,8 @@ when green flag clicked
 Next, we need to use our `video sensing`{:class="block3extensions"} blocks to make sure to `turn the camera on`{:class="block3extensions"} and totally opaque when the project starts. Add a `set transparency to 0`{:class="block3extensions"}.
 ```blocks3
 when gf clicked
-turn video [on v]
-set video transparency to (0)
++turn video [on v]
++set video transparency to (0)
 
 ```
 
@@ -86,7 +86,7 @@ At the bottom of you script, add a `forever`{:class="block3control"} block from 
 when gf clicked
 turn video [on v]
 set video transparency to (0)
-forever
++forever
 
 ```
 --- /task ---
@@ -98,7 +98,7 @@ when gf clicked
 turn video [on v]
 set video transparency to (0)
 forever
-    go to x:()y:()
+    +go to x:()y:()
 ```
 --- /task ---
 
@@ -109,7 +109,7 @@ when gf clicked
 turn video [on v]
 set video transparency to (0)
 forever
-    go to x:(x coord of (nose v)::#0fbd8c)y:(y coord of (nose v)::#0fbd8c)
+    go to x:+(x coord of (nose v)::#0fbd8c)y:+(y coord of (nose v)::#0fbd8c)
 ```
 --- /task ---
 
