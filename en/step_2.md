@@ -19,6 +19,7 @@ You should see the normal looking Scratch environment, with a couple of small di
 Once you’ve followed the link above, you should be able to see a brand new, empty Scratch project, just like you're used to - the cool part comes when we add some Extensions that are only included in this special fork of Scratch. 
 
 The two extensions we want to enable are Video Sensing and Facial Recognition - add them both now.
+![image showing Video Sensing extension tile](images/videosensing.png) ![image showing face Detection extension tile](images/facedetect.png)
 
 --- collapse ---
 
