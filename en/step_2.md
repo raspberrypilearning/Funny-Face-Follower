@@ -82,7 +82,7 @@ title: Adding costumes in Scratch
 Now, we're going to add the code that will make the mask detect and follow your face!
 
 --- task ---
-At the bottom of you script, add a `forever`{:class="block3control"} block from the control list. 
+At the bottom of your script, add a `forever`{:class="block3control"} block from the control list. 
 ```blocks3
 when gf clicked
 turn video [on v]
