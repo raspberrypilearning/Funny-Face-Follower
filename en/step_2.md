@@ -42,7 +42,7 @@ title: Adding extensions in Scratch
 
 ![video and facial rec extension blocks](images/video-face-blocks.JPG)
 
-+Repeat these steps with the **Face Detection** extension.
++ Repeat these steps with the **Face Detection** extension.
 ![Video Sensing tile](images/facedetect.JPG)
 
 --- /collapse ---
