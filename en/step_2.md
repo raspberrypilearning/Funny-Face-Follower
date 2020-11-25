@@ -16,7 +16,9 @@ As this project requires connection to the cloud based machine learning engine, 
 You should see the normal looking Scratch environment, with a couple of small differences. You'll notice there is no 'Remix' button and you cannot log in as usual. 
 
 --- /task ---
+
 Once you’ve followed the link above, you should be able to see a brand new, empty Scratch project, just like you're used to - the cool part comes when we add some Extensions that are only included in this special fork of Scratch.
+
 --- task ---
 The two extensions we want to enable are **Video Sensing** and **Facial Recognition** - add them both now.
 
