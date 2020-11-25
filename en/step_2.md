@@ -29,6 +29,19 @@ The two extensions we want to enable are **Video Sensing** and **Facial Recognit
 --- 
 title: Adding extensions in Scratch
 ---
+
++ Click on the **Add extension** button in the bottom left-hand corner.
+
+![add extension button highlighted](images/add-extension-annotated.png)
+
++ Click on the **Pen** extension to add it.
+
+![pen extension highlighted](images/click-pen-annotated.png)
+
++ The Pen section then appears at the bottom of the blocks menu.
+
+![video and facial rec extension blocks](images/video-face-blocks.JPG)
+
 --- /collapse ---
 
 --- /task ---
