@@ -23,6 +23,7 @@ Once you’ve followed the link above, you should be able to see a brand new, em
 The two extensions we want to enable are **Video Sensing** and **Facial Recognition** - add them both now.
 
 ![image showing Video Sensing extension tile](images/vision-extensions.JPG)
+
 --- collapse ---
 
 --- 
