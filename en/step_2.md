@@ -71,11 +71,7 @@ Here I've used the 'heart face' costume, but you can use anything you like.
 
 ![Heart Face costume](images/Heart Face.png)
 
----collapse ---
----
-title: Adding costumes in Scratch
----
---- /collapse ---
+[[[generic-scratch-add-costume]]]
 
 --- /task ---
 
