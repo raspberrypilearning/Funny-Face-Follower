@@ -68,7 +68,7 @@ Stop the project and click on the **Costumes tab** for your cat sprite. **Add a 
 
 Here I've used the 'heart face' costume, but you can use anything you like.
 
-![Heart Face costume](images/heartface.svg)
+![Heart Face costume](images/Heart Face.png)
 
 ---collapse ---
 ---
