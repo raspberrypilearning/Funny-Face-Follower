@@ -9,6 +9,6 @@
 ### Share
 To keep your project, you'll have to save your work to your computer and then open it up again in this special version of Scratch:
 
-[[[saving-scratch]]]
+[[[generic-scratch-saving]]]
 
 If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
