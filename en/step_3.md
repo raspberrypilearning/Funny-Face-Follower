@@ -14,6 +14,7 @@ Create a simple circle shape that will be the nose of your mask.
 Create a new sprite by hovering over the little blue cat face at the bottom left, and then clicking on the paintbrush that appears. This will open the **Paint editor** again.
 
 Make this sprite look like an eye by drawing one circle inside another and making them different colours.
+![Eye part 1](images/eye1.png) ![Eye part 2](images/eye2.png)
 --- /task ---
 
 --- task ---
