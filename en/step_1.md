@@ -5,7 +5,7 @@ Today, you’re going to be using a different version of Scratch (what programme
 ### What you will make
 
 --- no-print ---
-In this activity, you will use the amazing online machine learning engine called Watson (and Scratch!) to create a project that will recognise your face in the webcam and place some funny sprites over it to make a mask that follows you!
+In this activity, you will use a cloud-based machine learning engine called Watson (with Scratch!) to create a project that will recognise your face in the webcam and place some funny sprites over it to make a mask that follows you!
 
 ![image showing Scratch stage with funny mask overlay](images/ML-FR-Demo.JPG)
 --- /no-print ---
