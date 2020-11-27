@@ -7,7 +7,7 @@
 + Make a changeable mask with lots of crazy costumes!
 
 ### Share
-To keep your project, you'll have to save your work to your computer and then open it up again in this special version of Scratch:
+To keep your project, you'll have to **Download your work to your computer** and then open it up again in this special version of Scratch when you want to use it.
 
 [[[generic-scratch-saving]]]
 
