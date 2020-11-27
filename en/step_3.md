@@ -6,11 +6,7 @@ In this step, we're going to make individual sprites that will anchor to our eye
 Go into the **Costumes** tab for your current sprite and click the little paintbrush to create a new costume in the **Paint editor**.
 Create a simple circle shape that will be the nose of your mask.
 
---- collapse ---
----
-title: Drawing circles in the paint editor
----
---- /collapse ---
+[[[generic-scratch-vector-mode]]]
 
 --- /task ---
 
