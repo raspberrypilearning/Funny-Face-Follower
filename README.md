@@ -1,6 +1,6 @@
-# ML-facial-recognition-starter
+# Funny-Face-Follower
 
-![ML-facial-recognition-starter](banner.png)
+![Funny-Face-Follower](banner.png)
 
 Find the project online at [projects.raspberrypi.org/en/projects/ML-facial-recognition-starter](https://projects.raspberrypi.org/en/projects/ML-facial-recognition-starter)
 
