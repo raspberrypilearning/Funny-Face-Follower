@@ -40,7 +40,7 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-You can download the completed project [here](http://rpf.io/p/en/ML_Facial_Recognition-get){:target="_blank"}.
+You can download the completed project [here](http://rpf.io/p/en/Funny-Face-Follower-get){:target="_blank"}.
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/Funny-Face-Follower/print){:target="_blank"}.
 
