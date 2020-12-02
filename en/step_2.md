@@ -77,20 +77,6 @@ Click the **Green flag** to test your work and see the camera come online.
 Give your browser permission to use your camera if you are asked.
 --- /task ---
 
-Now, we're going to change the costume of our cat sprite to something more like a face.
-
---- task ---
-Stop the project and click on the **Costumes tab** for your cat sprite. 
-**Add a new costume** to use as your mask and delete the old ones of the cat by clicking the bin icon on the costume. 
-
-An good example is the 'heart face' costume, but you can use anything you like.
-
-![Heart Face costume](images/Heart Face.png)
-
-[[[generic-scratch-add-costume]]]
-
---- /task ---
-
 Now, we're going to add the code that will make the mask detect and follow your face!
 
 --- task ---
@@ -129,7 +115,7 @@ forever
 --- task ---
 Click the **Green flag** and see if your project works.
 
-Your mask should now follow your face wherever you go!
+Your sprite should now follow your face wherever you go!
 --- /task ---
 
 In the next step, we'll create a silly mask made up of different sprites that will independently cover your nose and eyes!
