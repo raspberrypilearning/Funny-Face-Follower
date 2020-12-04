@@ -4,9 +4,6 @@ For this activity, we’re going to use a special version of Scratch created for
 
 
 Unfortunately, because this version of Scratch is a bit different to the normal one - if you want to be able to save your work, you’ll need to download your project to your computer and re-open it in the special version of Scratch when you want to use it again.
-
-[[[generic-scratch-saving]]]
-
 --- task ---
 
 If working **online**, open the [starter project](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"} in Scratch.
