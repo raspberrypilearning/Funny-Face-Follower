@@ -4,6 +4,7 @@ For this activity, we’re going to use a special version of Scratch created for
 
 
 Unfortunately, because this version of Scratch is a bit different to the normal one - if you want to be able to save your work, you’ll need to download your project to your computer and re-open it in the special version of Scratch when you want to use it again.
+
 --- task ---
 
 If working **online**, open the [starter project](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"} in Scratch.
@@ -53,6 +54,7 @@ These new blocks have been created to access an already existing Machine Learnin
 Let’s see if they work!
 
 --- task ---
+
 Begin by adding a `When Green Flag Clicked`{:class="block3events"} to start our project.
 ```blocks3
 when green flag clicked
@@ -60,6 +62,7 @@ when green flag clicked
 --- /task ---
 
 --- task ---
+
 Next, we need to use our `video sensing`{:class="block3extensions"} blocks to make sure to `turn the camera on`{:class="block3extensions"} and totally opaque when the project starts. Add a `set transparency to 0`{:class="block3extensions"}.
 ```blocks3
 when gf clicked
@@ -70,6 +73,7 @@ when gf clicked
 --- /task ---
 
 --- task ---
+
 Click the **Green flag** to test your work and see the camera come online.  
 Give your browser permission to use your camera if you are asked.
 --- /task ---
@@ -77,6 +81,7 @@ Give your browser permission to use your camera if you are asked.
 Now, we're going to add the code that will make the mask detect and follow your face!
 
 --- task ---
+
 At the bottom of your script, add a `forever`{:class="block3control"} block from the control list. 
 ```blocks3
 when gf clicked
@@ -88,6 +93,7 @@ set video transparency to (0)
 --- /task ---
 
 --- task ---
+
 Next, add a `go to x and y`{:class="block3motion"} block inside your forever loop.
 ```blocks3
 when gf clicked
@@ -99,6 +105,7 @@ forever
 --- /task ---
 
 --- task ---
+
 Open the `Facial Recognition`{:class="block3extensions"} menu on the left and drag across the small round `x coord of nose`{:class="block3extensions"} and `y coord of nose`{:class="block3extensions"} blocks and pop them into their corresponding spots (making sure you match x with x and y with y!)
 ``` blocks3
 when gf clicked
