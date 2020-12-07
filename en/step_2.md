@@ -1,23 +1,23 @@
 ## Facial recognition with Scratch
 
-For this activity, we’re going to use a special version of Scratch created for just this reason! You can open this special fork of Scratch any time by following [this link](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"} to make your own machine learning projects.
+For this project, we are going to use a special version of Scratch created for just this reason! You can open this special fork of Scratch any time by following [this link](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"} to make your own machine learning projects.
 
 
-Unfortunately, because this version of Scratch is a bit different to the normal one - if you want to be able to save your work, you’ll need to download your project to your computer and re-open it in the special version of Scratch when you want to use it again.
+This version of Scratch is a bit different to the normal one, so if you want to be able to save your work, you will need to download your project to your computer and reopen it in the special version of Scratch when you want to use it again.
 --- task ---
 
-If working **online**, open the [starter project](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"} in Scratch.
+If you are working **online**, open the [starter project](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"} in Scratch.
  
-As this project requires connection to the cloud based machine learning engine, offline work is not possible.
+As this project requires connection to the cloud-based machine learning engine, offline work is not possible.
 
-You should see the normal looking Scratch environment, with a couple of small differences. You'll notice there is no 'Remix' button and you cannot log in as usual. 
+You should see the normal-looking Scratch environment, with a couple of small differences. You will notice that there is no **Remix** button and you cannot log in as usual. 
 
 --- /task ---
 
-Once you’ve followed the link above, you should be able to see a brand new, empty Scratch project, just like you're used to - the cool part comes when we add some Extensions that are only included in this special fork of Scratch.
+Once you have followed the link above, you should be able to see a brand-new, empty Scratch project, just like you're used to - the cool part comes when we add some extensions that are only included in this special fork of Scratch.
 
 --- task ---
-The two extensions we want to enable are **Video Sensing** and **Face Detection** - add them both now.
+The two extensions that we want to enable are **Video Sensing** and **Face Detection**. Add them both now.
 
 ![image showing Video Sensing extension tile](images/vision-extensions.JPG)
 
@@ -27,7 +27,7 @@ The two extensions we want to enable are **Video Sensing** and **Face Detection*
 title: Adding extensions in Scratch
 ---
 
-+ Click on the **Add extension** button in the bottom left-hand corner.
++ Click the **Add Extension** button in the bottom left-hand corner.
 
 ![add extension button highlighted](images/add-extension-annotated.png)
 
@@ -46,14 +46,14 @@ title: Adding extensions in Scratch
 
 --- /task ---
 
-Now that we have added the extensions we need to Scratch, you should see two new menus on the left of your screen. You may have used Video Sensing before, but the Facial Recognition blocks may be new to you. 
+Now that you have added the extensions that you need to in Scratch, you should see two new menus on the left-hand side of your screen. You may have used Video Sensing before, but the Facial Recognition blocks may be new to you. 
 
-These new blocks have been created to access an already existing Machine Learning model that exists on the cloud and has been trained to recognise human faces. We’re simply using these blocks to tell Scratch to check with the online model to see where the face appears on your stage.
+These new blocks have been created to access an already existing machine learning model that exists on the cloud and has been trained to recognise human faces. We’re simply using these blocks to tell Scratch to check with the online model to see where the face appears on your Stage.
 
 Let’s see if they work!
 
 --- task ---
-Begin by adding a `When Green Flag Clicked`{:class="block3events"} to start our project.
+First, add a `When green flag clicked`{:class="block3events"} to start our project.
 ```blocks3
 when green flag clicked
 ```
@@ -70,7 +70,7 @@ when gf clicked
 --- /task ---
 
 --- task ---
-Click the **Green flag** to test your work and see the camera come online.  
+Click on the **green flag** to test your work and see the camera come online.  
 Give your browser permission to use your camera if you are asked.
 --- /task ---
 
@@ -88,7 +88,7 @@ set video transparency to (0)
 --- /task ---
 
 --- task ---
-Next, add a `go to x and y`{:class="block3motion"} block inside your forever loop.
+Next, add a `go to x: y:`{:class="block3motion"} block inside your `forever`{:class="block3control"} loop.
 ```blocks3
 when gf clicked
 turn video [on v]
@@ -99,7 +99,7 @@ forever
 --- /task ---
 
 --- task ---
-Open the `Facial Recognition`{:class="block3extensions"} menu on the left and drag across the small round `x coord of nose`{:class="block3extensions"} and `y coord of nose`{:class="block3extensions"} blocks and pop them into their corresponding spots (making sure you match x with x and y with y!)
+Open the `Facial Recognition`{:class="block3extensions"} menu on the left and drag across the small round `x coord of nose`{:class="block3extensions"} and `y coord of nose`{:class="block3extensions"} blocks and pop them into their corresponding spots (make sure that you match x with x and y with y!).
 ``` blocks3
 when gf clicked
 turn video [on v]
@@ -110,11 +110,11 @@ forever
 --- /task ---
 
 --- task ---
-Click the **Green flag** and see if your project works.
+Click on the green flag and see if your project works.
 
 Your sprite should now follow your face wherever you go!
 --- /task ---
 
-In the next step, we'll create a silly mask made up of different sprites that will independently cover your nose and eyes!
+In the next step, you will create a silly mask made up of different sprites that will independently cover your nose and eyes!
 
 --- save ---
