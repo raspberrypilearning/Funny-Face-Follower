@@ -56,9 +56,11 @@ Let’s see if they work!
 --- task ---
 
 Begin by adding a `When Green Flag Clicked`{:class="block3events"} to start our project.
+
 ```blocks3
 when green flag clicked
 ```
+
 --- /task ---
 
 --- task ---
@@ -70,12 +72,14 @@ when gf clicked
 +set video transparency to (0)
 
 ```
+
 --- /task ---
 
 --- task ---
 
 Click the **Green flag** to test your work and see the camera come online.  
 Give your browser permission to use your camera if you are asked.
+
 --- /task ---
 
 Now, we're going to add the code that will make the mask detect and follow your face!
@@ -90,6 +94,7 @@ set video transparency to (0)
 +forever
 
 ```
+
 --- /task ---
 
 --- task ---
@@ -102,6 +107,7 @@ set video transparency to (0)
 forever
 +    go to x:()y:()
 ```
+
 --- /task ---
 
 --- task ---
@@ -114,12 +120,15 @@ set video transparency to (0)
 forever
 +    go to x:(x coord of (nose v)::#0fbd8c)y:(y coord of (nose v)::#0fbd8c)
 ```
+
 --- /task ---
 
 --- task ---
+
 Click the **Green flag** and see if your project works.
 
 Your sprite should now follow your face wherever you go!
+
 --- /task ---
 
 In the next step, we'll create a silly mask made up of different sprites that will independently cover your nose and eyes!
