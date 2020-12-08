@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project, you will use a different version of Scratch (what programmers call a ‘fork’) that is pre-made with special extensions created by IBM. Today, you will use machine learning to do facial recognition! 
+In this project, you will use machine learning to do facial recognition! You will use a different version of Scratch (what programmers call a ‘fork’) that is pre-made with special extensions created by IBM.
 
 ### What you will make
 
@@ -17,11 +17,11 @@ title: What you will need
 ### Hardware
 
 + A computer or tablet capable of running Scratch 3
-+ A webcam (your tablet will have one of these already)
++ A webcam (your tablet or computer may have a webcam already)
 
 ### Software
 
-+ This project can only be completed in a web browser using a special version of [Scratch 3](https://machinelearningforkids.co.uk/scratch3/)
++ This project can only be completed in a web browser using a [special version of Scratch 3](https://machinelearningforkids.co.uk/scratch3/)
 
 --- /collapse ---
 
@@ -30,7 +30,7 @@ title: What you will need
 title: What you will learn
 ---
 
-+ How to use the Scratch extensions `Video Sensing`{:class="block3extensions"} and `Facial Recognition`{:class="block3extensions"}
++ How to use the Scratch extensions `Video Sensing`{:class="block3extensions"} and `Face detection`{:class="block3extensions"}
 + How to interact with a pre-trained machine learning model
 
 --- /collapse ---
