@@ -10,7 +10,7 @@ Open the [special version of Scratch](https://machinelearningforkids.co.uk/scrat
  
 This project requires a connection to the cloud-based machine learning engine, so you cannot work on this project offline.
 
-You should see the normal-looking Scratch environment, with a couple of small differences. You will notice that there is no **Remix** button and you cannot log in as usual. 
+You should see the Scratch environment that you are used to, with a couple of small differences. You will notice that there is no **Remix** button and you cannot log in as usual. 
 
 --- /task ---
 
@@ -35,7 +35,7 @@ title: Adding extensions in Scratch
 
 ![Video Sensing tile](images/videosensing.JPG)
 
-+ The `Video Sensing`{:class="block3extensions"} section will then appear at the bottom of the Blocks menu.
++ The `Video Sensing`{:class="block3extensions"} blocks will then appear at the bottom of the Blocks menu.
 
 ![video and facial rec extension blocks](images/video-face-blocks.JPG)
 
