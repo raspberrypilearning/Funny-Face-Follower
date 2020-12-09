@@ -3,7 +3,7 @@
 
 ### Add more!
 + Make the eyes googly by having them change direction as they move around
-+ Add a mouth by creating a new sprite and making it always sit just below the nose
++ Add a mouth by creating a new sprite and making it always be positioned just below the nose
 + Make a changeable mask with lots of funny costumes!
 
 ### Share
