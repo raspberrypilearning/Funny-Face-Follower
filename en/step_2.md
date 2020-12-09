@@ -4,6 +4,7 @@ For this project, you are going to use a special version of Scratch created for 
 
 
 This version of Scratch is a bit different to the version of Scratch that you are used to, so if you want to save your work, you will need to download your project to your computer and reopen it in this special version of Scratch when you want to use it again.
+
 --- task ---
 
 Open the [special version of Scratch](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"}.
@@ -17,6 +18,7 @@ You should see the Scratch environment that you are used to, with a couple of sm
 Once you have followed the link above, you should see a brand-new, empty Scratch project, just like you're used to. Next, you will add some extensions that are only included in this special fork of Scratch.
 
 --- task ---
+
 The two extensions that you need to enable are `Video Sensing`{:class="block3extensions"} and `Face detection`{:class="block3extensions"}. Add them both now.
 
 ![image showing Video Sensing extension tile](images/vision-extensions.JPG)
@@ -53,6 +55,7 @@ These new blocks have been created to access a machine learning model that alrea
 Follow the steps below to see if the blocks work!
 
 --- task ---
+
 First, add a `when green flag clicked`{:class="block3events"} block to start your project.
 ```blocks3
 when green flag clicked
@@ -60,34 +63,39 @@ when green flag clicked
 --- /task ---
 
 --- task ---
+
 Next, you need to use `Video Sensing`{:class="block3extensions"} blocks to turn the camera on and set the image to totally opaque when the project starts: add a `turn video on`{:class="block3extensions"} block and a `set video transparency to`{:class="block3extensions"}`0` block.
 ```blocks3
 when gf clicked
 +turn video [on v]
 +set video transparency to (0)
-
 ```
+
 --- /task ---
 
 --- task ---
+
 Click on the green flag to test your work and see the camera come online.  
 Give your browser permission to use your camera if you are asked.
+
 --- /task ---
 
 Next, you will add the code that will make the mask detect and follow your face!
 
 --- task ---
+
 At the bottom of your script, add a `forever`{:class="block3control"} block from the `Control`{:class="block3control"} blocks menu. 
 ```blocks3
 when gf clicked
 turn video [on v]
 set video transparency to (0)
 +forever
-
 ```
+
 --- /task ---
 
 --- task ---
+
 Next, add a `go to x: y:`{:class="block3motion"} block inside your `forever`{:class="block3control"} loop.
 ```blocks3
 when gf clicked
@@ -96,9 +104,11 @@ set video transparency to (0)
 forever
 +    go to x:()y:()
 ```
+
 --- /task ---
 
 --- task ---
+
 Open the `Face detection`{:class="block3extensions"} blocks menu and select the small rounded `x coord of nose`{:class="block3extensions"} and `y coord of nose`{:class="block3extensions"} blocks and put them into their corresponding spots in the `go to x: y:`{:class="block3motion"} block (make sure that you match x with x and y with y!).
 ``` blocks3
 when gf clicked
@@ -107,12 +117,15 @@ set video transparency to (0)
 forever
 +    go to x:(x coord of (nose v)::#0fbd8c)y:(y coord of (nose v)::#0fbd8c)
 ```
+
 --- /task ---
 
 --- task ---
+
 Click on the green flag and see if your project works.
 
 Your sprite should now follow your face wherever you go!
+
 --- /task ---
 
 In the next step, you will create a silly mask made up of different sprites that will independently cover your nose and eyes!
