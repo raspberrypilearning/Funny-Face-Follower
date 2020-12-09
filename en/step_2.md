@@ -3,6 +3,7 @@
 For this project, you are going to use a special version of Scratch created for facial recognition! You can open this special fork of Scratch any time by following [this link](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"} to make your own machine learning projects.
 
 
+
 This version of Scratch is a bit different to the version of Scratch that you are used to, so if you want to save your work, you will need to download your project to your computer and reopen it in this special version of Scratch when you want to use it again.
 
 --- task ---
@@ -57,14 +58,18 @@ Follow the steps below to see if the blocks work!
 --- task ---
 
 First, add a `when green flag clicked`{:class="block3events"} block to start your project.
+
 ```blocks3
 when green flag clicked
 ```
+
 --- /task ---
 
 --- task ---
 
+
 Next, you need to use `Video Sensing`{:class="block3extensions"} blocks to turn the camera on and set the image to totally opaque when the project starts: add a `turn video on`{:class="block3extensions"} block and a `set video transparency to`{:class="block3extensions"}`0` block.
+
 ```blocks3
 when gf clicked
 +turn video [on v]
@@ -75,7 +80,9 @@ when gf clicked
 
 --- task ---
 
+
 Click on the green flag to test your work and see the camera come online.  
+
 Give your browser permission to use your camera if you are asked.
 
 --- /task ---
@@ -84,7 +91,9 @@ Next, you will add the code that will make the mask detect and follow your face!
 
 --- task ---
 
+
 At the bottom of your script, add a `forever`{:class="block3control"} block from the `Control`{:class="block3control"} blocks menu. 
+
 ```blocks3
 when gf clicked
 turn video [on v]
@@ -97,6 +106,7 @@ set video transparency to (0)
 --- task ---
 
 Next, add a `go to x: y:`{:class="block3motion"} block inside your `forever`{:class="block3control"} loop.
+
 ```blocks3
 when gf clicked
 turn video [on v]
@@ -110,6 +120,7 @@ forever
 --- task ---
 
 Open the `Face detection`{:class="block3extensions"} blocks menu and select the small rounded `x coord of nose`{:class="block3extensions"} and `y coord of nose`{:class="block3extensions"} blocks and put them into their corresponding spots in the `go to x: y:`{:class="block3motion"} block (make sure that you match x with x and y with y!).
+
 ``` blocks3
 when gf clicked
 turn video [on v]
