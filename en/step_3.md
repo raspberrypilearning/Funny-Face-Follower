@@ -28,7 +28,7 @@ forever
 --- /task ---
 
 --- task ---
-Click on the **Eye** sprite now and go into its **Code** tab. Remove the `turn video on`{:class="block3extensions"} and `set transparency to 0`{:class="block3extensions"} blocks from the script. 
+Click on the **Eye** sprite now and go into its **Code** tab. Remove the `turn video on`{:class="block3extensions"} and `set video transparency to 0`{:class="block3extensions"} blocks from the script. 
 
 In the two `coord of nose`{:class="block3extensions"} blocks, click on the drop-down menus and select `right eye`{:class="block3extensions"}.
 ``` blocks3
