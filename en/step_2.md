@@ -53,8 +53,6 @@ Now that you have added the extensions that you need to in Scratch, you should s
 
 These new blocks have been created to access a machine learning model that already exists on the cloud and has been trained to recognise human faces. You will use these blocks to tell Scratch to check with the online model to see where a face appears on your Stage.
 
-Follow the steps below to see if the blocks work!
-
 --- task ---
 
 First, add a `when green flag clicked`{:class="block3events"} block to start your project.
@@ -80,7 +78,6 @@ when gf clicked
 
 --- task ---
 
-
 Click on the green flag to test your work and see the camera come online.  
 
 Give your browser permission to use your camera if you are asked.
@@ -90,7 +87,6 @@ Give your browser permission to use your camera if you are asked.
 Next, you will add the code that will make the mask detect and follow your face!
 
 --- task ---
-
 
 At the bottom of your script, add a `forever`{:class="block3control"} block from the `Control`{:class="block3control"} blocks menu. 
 
