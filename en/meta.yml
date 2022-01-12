@@ -1,12 +1,16 @@
+---
 title: Funny face follower
 hero_image: images/banner.png
-description: Use machine learning to hide your face with a mask that will follow you when you move!
+description: Use machine learning to hide your face with a mask that will follow you
+  when you move!
 version: 4
 listed: false
 copyedit: false
-last_tested: "2020-11-24"
+last_tested: '2020-11-24'
 steps:
-  - title: Introduction
-  - title: Facial recognition with Scratch
-  - title: Make a mask
-  - title: What next?
+- title: Introduction
+  completion: engaged
+- title: Facial recognition with Scratch
+  completion: internal
+- title: Make a mask
+- title: What next?
